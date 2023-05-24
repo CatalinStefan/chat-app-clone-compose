@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282503457249",
+    "project_id": "catest-d83c8",
+    "storage_bucket": "catest-d83c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282503457249:android:77ec2046c65ddd47cf0aa0",
+        "android_client_info": {
+          "package_name": "com.example.whatsapptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282503457249-c6arqcmg8l5o7e8nbntkpghmnc0muuft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5dbWSZ1dqNEA1eeR5fO7Hrnw1r5zexDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282503457249-c6arqcmg8l5o7e8nbntkpghmnc0muuft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
